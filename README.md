@@ -10,8 +10,8 @@ A powerful tweak for WhatsApp and WhatsApp Business!
    
     | Application | Version | Dragon |
     | --- | --- | --- |
-    | [WhatsApp](https://mega.nz/file/MRhwDAbA#PSvn1Jg0Jf0coXpazjD1J_SeDrMj3PIviXRUrr0YLnw) | 2.20.131 | 1.4 |
-    | [WA Business](https://mega.nz/file/IVw22SqY#b9_SeSZwPtdpZNEb3U4k-s5NRzJ9bFF2vcpEg4LN39I) | 2.20.131 | 1.4 |
+    | [WhatsApp](https://mega.nz/file/wZYHzYzC#_-BeAQoQSXgDKD-qKupo6dzNOoYy7ki84AKUi2jTckw) | 2.20.132 | 1.4 |
+    | [WA Business](https://mega.nz/file/wVRVXQBI#wcd8sGnWQdjj-mmov2sHvfm0-K5Xy06aF8m5vWzwZrs) | 2.20.132 | 1.4 |
         
 &nbsp;
 
